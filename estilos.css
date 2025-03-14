@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Estils per al body */
+  body {
+    
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Capçalera */
+  header {
+    
+    background-color: #212121;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    width: 100%;
+  }
+  
+  header h1 {
+    font-size: 1.8rem;
+    margin: 0;
+    margin-bottom: 20px;
+  }
+
+  /* Secció d'introducció */
+  .intro {
+    margin: 1.5rem auto;
+    padding: 0 1rem;
+  }
+  
+  .intro p {
+    margin-bottom: 1rem;
+    line-height: 1.5;
+  }
+
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;  
+    justify-content: center;
+    gap: 1rem;
+    max-width: 1200px;
+    margin: 0 auto 2rem auto;
+    padding: 0 1rem;
+  }
