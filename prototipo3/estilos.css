@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    flex-direction: column;
+    font-family: sans-serif;
+}
+
+.carta-3 {
+    width: 800px;
+    margin-top: 70px;
+    box-shadow: 3px 7px 81px -10px rgba(0,0,0,0.75);
+    padding: 30px;
+    padding-top: 50px;
+}
+
+.prototipo3 {
+    display: flex;
+    margin-bottom: 50px;
+    gap: 82px;
+}
+
+.carta-3 h2 {
+    font-size: 52px;
+    margin-top: 5px;
+}
+
+.carta-3__parte {
+    width: 40%;
+}
+
+.carta-3__parte {
+    color: gray;
+    line-height: 24px;
+}
+
+.carta-3__parte button {
+    border: none;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.carta-3 img {
+    width: 100%;
+}
