@@ -1,0 +1,105 @@
+body {
+    display: flex;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.prototipo11 {
+    width: 780px;
+    height: 490px;
+    box-shadow: 3px 7px 81px -10px rgba(0,0,0,0.75);
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px;
+}
+
+.titulos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.parte-abajo {
+    display: flex;
+}
+
+.parrafo {
+    width: 330px;
+    position: relative;
+    top: -20px;
+}
+
+.parrafo h2 {
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+.parrafo p {
+    color: #333;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.parrafo button {
+    border: none;
+    color: white;
+    background-color: black;
+    padding: 12px 30px;
+    border-radius: 50px;
+    margin-top: 10px;
+}
+.imagenes {
+    position: relative;
+}
+
+.imagenes img {
+    width: 200px;
+    height: 230px;
+    object-fit: cover;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    position: absolute;
+}
+
+.imagen1 {
+    position: absolute;
+    top: -20px;
+    right: 120px;
+}
+
+.imagen2 {
+    position: absolute;
+    left: -200px;
+    bottom: -15px;
+}
+
+.rectangulo {
+    background-color: #333;
+    border-radius: 20px;
+    padding: 20px 40px;
+    padding-top: 30px;
+    color: #ccc;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rectangulo img {
+    width: 15px;
+}
+
+.rectangulo h3 {
+    margin-top: 5px;
+}
+
+.rectangulo p {
+    font-size: 14px;
+}
+
+.logo {
+    width: 180px;
+}
+
