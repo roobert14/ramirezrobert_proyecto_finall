@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
   
-  /* Estils per al body */
+
   body {
     
     font-family: Arial, sans-serif;
@@ -16,7 +16,7 @@
     flex-direction: column;
   }
   
-  /* Capçalera */
+
   header {
     
     background-color: #212121;
@@ -32,7 +32,7 @@
     margin-bottom: 20px;
   }
 
-  /* Secció d'introducció */
+
   .intro {
     margin: 1.5rem auto;
     padding: 0 1rem;
