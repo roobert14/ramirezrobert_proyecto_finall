@@ -22,12 +22,12 @@ body {
     line-height: 60px;
     font-size: 64px;
     margin-bottom: 5px;
-    color: black;
+    color: #252525;
 }
 
 .parrafo {
     width: 47%;
-    color: rgba(22, 22, 22, 0.667);
+    color:#252525CC;
     line-height: 30px;
     margin-top: 0px;
     font-size: 20px;
@@ -37,7 +37,7 @@ body {
 .boton {
     padding: 14px 40px;
     border: none;
-    background-color: rgb(43, 42, 42);
+    background-color: #252525;
     border-radius: 15px;
     color: white;
     cursor: pointer;
