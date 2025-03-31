@@ -1,7 +1,7 @@
 body {
     display: flex;
-    font-family: sans-serif;
     align-items: center;
+    font-family: sans-serif;
     box-sizing: border-box;
     flex-direction: column;
     padding: 20px;
@@ -10,9 +10,9 @@ body {
 .prototipo11 {
     width: 800px;
     height: 480px;
-    padding: 45px;
     box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
     display: flex;
+    padding: 45px;
     flex-direction: column;
     padding-top: 60px;
 }
@@ -24,8 +24,6 @@ body {
 
 .parrafo {
     width: 330px;
-    top: -20px;
-    position: relative;
 }
 
 .parrafo h2 {
@@ -34,16 +32,16 @@ body {
 }
 
 .parrafo p {
-    color: #252525;
+    color: #252525CC;
     font-size: 14px;
-    line-height: 21px;
+    line-height: 20px;
 }
 
 .parrafo button {
     border: none;
     color: white;
     background-color: #252525;
-    padding: 12px 30px;
+    padding: 10px 30px;
     border-radius: 50px;
     margin-top: 10px;
 }
@@ -54,29 +52,26 @@ body {
 .imagenes img {
     width: 200px;
     height: 230px;
-    border-top-left-radius: 50%;
-    border-top-right-radius: 50%;
-    position: absolute;
+    
 }
 
 .imagen1 {
     position: absolute;
-    top: -20px;
-    right: 120px;
+    right: 130px;
 }
 
 .imagen2 {
     position: absolute;
-    left: -200px;
-    bottom: -15px;
+    left: -210px;
+    bottom: -20px;
 }
 
 .rectangulo {
-    background-color: #333;
-    border-radius: 20px;
-    padding: 20px 40px;
-    padding-top: 30px;
-    color: #ccc;
+    background-color: #252525;
+    padding: 25px 45px;
+    color: #FFFFFFCC;
+    border-radius: 25px;
+    padding-top: 35px;
     margin-top: 50px;
     display: flex;
     justify-content: space-between;
