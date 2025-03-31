@@ -17,28 +17,29 @@ body {
 }
 
 .carta1 h1 {
-    width: 50%;
-    font-size: 40px;
+    width: 60%;
+    font-size: 64px;
     line-height: 60px;
     margin-bottom: 5px;
     color: black;
 }
 
 .carta1 p {
-    width: 50%;
+    width: 47%;
     color: #000a;
     line-height: 30px;
     margin-top: 0px;
     font-weight: 400;
     font-size: 20px;
     font-family: sans-serif;
+    margin-top: 15px;
 }
 
 .carta1 button {
     padding: 14px 40px;
     border: none;
     border-radius: 15px;
-    background-color: black;
+    background-color: rgb(43, 42, 42);
     color: white;
     font-weight: 100;
 }
