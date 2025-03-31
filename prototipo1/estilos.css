@@ -1,16 +1,15 @@
 body {
     display: flex;
     box-sizing: border-box;
-    align-items: center;
     flex-direction: column;
-    font-family: avenir;
+    align-items: center;
 }
 
 .carta1 {
     margin-top: 50px;
     max-width: 1000px;
     height: 810px;
-    box-shadow: 3px 7px 81px -10px rgba(0,0,0,0.75);
+    box-shadow: 3px 7px 81px -10px rgba(49, 49, 49, 0.75);
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -23,7 +22,6 @@ body {
     line-height: 60px;
     margin-bottom: 5px;
     color: black;
-    font-family: sans-serif;
 }
 
 .carta1 p {
