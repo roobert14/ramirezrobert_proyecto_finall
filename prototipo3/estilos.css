@@ -20,7 +20,7 @@ body {
     gap: 82px;
 }
 
-.prototipo3 h2 {
+.subtitulo {
     font-size: 52px;
     margin-top: 5px;
 }
@@ -30,18 +30,18 @@ body {
 }
 
 .parrafo {
-    color: rgb(56, 56, 56);
+    color: rgb(85, 84, 84);
     line-height: 24px;
 }
 
-.parrafo button {
+.boton {
     border: none;
-    background-color: #333;
+    background-color: #202020;
     color: #fff;
     padding: 10px 20px;
     border-radius: 10px;
 }
 
-.prototipo3 img {
+.imagen {
     width: 100%;
 }
