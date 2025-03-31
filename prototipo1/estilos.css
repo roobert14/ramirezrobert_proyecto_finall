@@ -40,6 +40,7 @@ body {
     background-color: rgb(43, 42, 42);
     border-radius: 15px;
     color: white;
+    cursor: pointer;
 }
 
 .galeria {

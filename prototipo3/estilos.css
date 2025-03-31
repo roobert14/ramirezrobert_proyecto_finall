@@ -1,28 +1,29 @@
 body {
     display: flex;
-    box-sizing: border-box;
     align-items: center;
+    box-sizing: border-box;
     flex-direction: column;
     font-family: sans-serif;
 }
 
 .prototipo3 {
-    width: 800px;
-    margin-top: 70px;
+    width: 900px;
     box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
     padding: 30px;
-    padding-top: 50px;
+    padding-top: 45px;
+    margin-top: 70px;
 }
 
 .texto {
+    gap: 75px;
     display: flex;
     margin-bottom: 50px;
-    gap: 82px;
 }
 
 .subtitulo {
-    font-size: 50px;
+    font-size: 60px;
     margin-top: 5px;
+    color: #252525 80%;
 }
 
 .parrafo {
@@ -36,10 +37,11 @@ body {
 
 .boton {
     border: none;
-    background-color: #202020;
-    color: #fff;
+    background-color: #252525;
+    color: white;
     padding: 10px 20px;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .imagen {
