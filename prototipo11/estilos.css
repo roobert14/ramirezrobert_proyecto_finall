@@ -8,10 +8,10 @@ body {
 }
 
 .prototipo11 {
-    width: 780px;
-    height: 490px;
-    box-shadow: 3px 7px 81px -10px rgba(0,0,0,0.75);
-    padding: 40px;
+    width: 800px;
+    height: 500px;
+    padding: 45px;
+    box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
     display: flex;
     flex-direction: column;
     padding-top: 60px;
