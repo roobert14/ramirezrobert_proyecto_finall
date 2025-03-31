@@ -17,7 +17,7 @@ body {
     box-shadow: 3px 7px 81px -10px rgba(49, 49, 49, 0.75);
 }
 
-.carta1 h1 {
+.titulo {
     width: 65%;
     line-height: 60px;
     font-size: 64px;
@@ -25,7 +25,7 @@ body {
     color: black;
 }
 
-.carta1 p {
+.parrafo {
     width: 47%;
     color: rgba(22, 22, 22, 0.667);
     line-height: 30px;
@@ -34,7 +34,7 @@ body {
     margin-top: 15px;
 }
 
-.carta1 button {
+.boton {
     padding: 14px 40px;
     border: none;
     background-color: rgb(43, 42, 42);
@@ -43,7 +43,7 @@ body {
     font-weight: 100;
 }
 
-.carta1 div {
+.galeria {
     display: flex;
     justify-content: center;
     gap: 10px;
