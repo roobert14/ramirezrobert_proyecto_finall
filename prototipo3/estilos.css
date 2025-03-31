@@ -9,7 +9,7 @@ body {
 .prototipo3 {
     width: 800px;
     margin-top: 70px;
-    box-shadow: 3px 7px 81px -10px rgba(0,0,0,0.75);
+    box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
     padding: 30px;
     padding-top: 50px;
 }
@@ -21,7 +21,7 @@ body {
 }
 
 .subtitulo {
-    font-size: 52px;
+    font-size: 50px;
     margin-top: 5px;
 }
 

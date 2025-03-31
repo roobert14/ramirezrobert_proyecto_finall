@@ -14,7 +14,7 @@ body {
     margin-top: 50px;
     max-width: 1000px;
     height: 850px;
-    box-shadow: 3px 7px 81px -10px rgba(49, 49, 49, 0.75);
+    box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
 }
 
 .titulo {
