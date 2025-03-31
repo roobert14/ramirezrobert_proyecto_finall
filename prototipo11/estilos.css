@@ -1,15 +1,15 @@
 body {
     display: flex;
     font-family: sans-serif;
-    box-sizing: border-box;
     align-items: center;
+    box-sizing: border-box;
     flex-direction: column;
     padding: 20px;
 }
 
 .prototipo11 {
     width: 800px;
-    height: 500px;
+    height: 480px;
     padding: 45px;
     box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
     display: flex;
@@ -22,14 +22,10 @@ body {
     justify-content: space-between;
 }
 
-.parte-abajo {
-    display: flex;
-}
-
 .parrafo {
     width: 330px;
-    position: relative;
     top: -20px;
+    position: relative;
 }
 
 .parrafo h2 {
@@ -38,7 +34,7 @@ body {
 }
 
 .parrafo p {
-    color: #333;
+    color: #252525;
     font-size: 14px;
     line-height: 21px;
 }
@@ -46,7 +42,7 @@ body {
 .parrafo button {
     border: none;
     color: white;
-    background-color: black;
+    background-color: #252525;
     padding: 12px 30px;
     border-radius: 50px;
     margin-top: 10px;
@@ -58,7 +54,6 @@ body {
 .imagenes img {
     width: 200px;
     height: 230px;
-    object-fit: cover;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
     position: absolute;
@@ -96,10 +91,10 @@ body {
 }
 
 .rectangulo p {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .logo {
-    width: 180px;
+    width: 200px;
 }
 
