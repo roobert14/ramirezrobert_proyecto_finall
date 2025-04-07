@@ -41,12 +41,14 @@ body {
     border: none;
     background-color: #252525;
     color: white;
-    padding: 16px 32px 16px 32px;
+    padding: 20px 52px 20px 52px;
     border-radius: 16px;
     cursor: pointer;
+    margin-bottom: 80px;
 }
 
+
 .imagen {
-    width: 100%;
-    margin-top: 70px;
+    width: 1250px;
+   margin-right: 40px;
 }
