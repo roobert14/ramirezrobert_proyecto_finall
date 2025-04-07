@@ -35,25 +35,27 @@ body {
     color: #252525;
 }
 
-.prototipo4 p {
+.primer_parrafo p {
     line-height: 26px;
-    color: #777;
+    color:#252525CC;
     margin-top: 0;
-    width: 40%;
+    width: 91%;
+    line-height: 35px;
+    font-size: 26px;
 }
 
 .primer_parrafo button {
     color: #fff;
     background-color: #252525;
     border: none;
-    padding: 10px 30px;
-    border-radius: 10px;
-    font-size: 12px;
+    border-radius: 16px;
+    font-size: 18px;
+    padding: 18px 48px 18px 48px;
 }
 
 .numeros {
     color: #2525258C;
-    font-size: 20px;
+    font-size: 32px;
     font-weight: 500;
     margin-top: 30px;
 }
