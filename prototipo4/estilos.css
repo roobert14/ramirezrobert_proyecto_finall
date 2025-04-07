@@ -8,7 +8,7 @@ body {
 }
 
 .prototipo4 {
-    margin-top: 70px;
+    margin-top: 80px;
     display: flex;
     gap: 80px;
     box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);    
@@ -53,13 +53,29 @@ body {
     padding: 18px 48px 18px 48px;
 }
 
-.numeros {
+.primer_numero {
     color: #2525258C;
     font-size: 32px;
-    font-weight: 500;
-    margin-top: 30px;
+    font-weight: 600;
+    margin-top: 70px;
+}
+
+.segundo_numero {
+    color: #2525258C;
+    font-size: 32px;
+    font-weight: 600;
+    margin-top: 40px;
+}
+
+.segundo_parrafo p {
+    line-height: 26px;
+    color:#252525CC;
+    margin-top: 0;
+    width: 100%;
+    line-height: 35px;
+    font-size: 26px;
 }
 
 .prototipo4 img{
-    width: 500px;
+    width: 716px;
 }
