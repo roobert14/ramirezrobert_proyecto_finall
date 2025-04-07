@@ -8,7 +8,7 @@ body {
 }
 
 .prototipo11 {
-    width: 900px;
+    width: 800px;
     height: 500px;
     box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
     display: flex;
@@ -57,13 +57,11 @@ body {
 }
 
 .imagen1 {
-    right: 200px;
     margin-bottom: 80px;
-
 }
 
 .imagen2 {
-    margin-left: -50px;
+    margin-left: -60px;
 }
 
 .rectangulo {
