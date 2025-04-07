@@ -3,6 +3,8 @@ body {
     flex-direction: column;
     align-items: center;
     font-family: sans-serif;
+    justify-content: center;
+    height: 100vh;
 }
 
 .prototipo4 {
@@ -11,12 +13,13 @@ body {
     gap: 80px;
     box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);    
     padding-top: 50px;
-    width: 970px;
-    height: 620px;
+    width: 1440px;
+    height: 1110px;
 }
 
 .prototipo4 img{
-    width: 500px;
+    width: 1800px;
+
 }
 
 .texto_general {
@@ -27,15 +30,16 @@ body {
 } 
 
 .prototipo4 h1 {
-    font-size: 45px;
+    font-size: 64px;
     margin: 20px 0;
     color: #252525;
 }
 
 .prototipo4 p {
-    line-height: 24px;
+    line-height: 26px;
     color: #777;
     margin-top: 0;
+    width: 40%;
 }
 
 .primer_parrafo button {
