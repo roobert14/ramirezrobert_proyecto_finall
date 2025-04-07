@@ -5,6 +5,8 @@ body {
     box-sizing: border-box;
     flex-direction: column;
     padding: 20px;
+    justify-content: center;
+    height: 100vh;
 }
 
 .prototipo11 {
