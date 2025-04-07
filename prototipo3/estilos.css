@@ -32,7 +32,7 @@ body {
     width: 35%;
     font-size: 26px;
     color: rgb(85, 84, 84);
-    line-height: 40px;
+    line-height: 35px;
     margin-top: 80px;
 }
 
@@ -44,11 +44,11 @@ body {
     padding: 20px 52px 20px 52px;
     border-radius: 16px;
     cursor: pointer;
-    margin-bottom: 80px;
+    margin-bottom: 60px;
 }
 
 
 .imagen {
-    width: 1250px;
-   margin-right: 40px;
+width: 1350px;
+margin-left: 45px;
 }
