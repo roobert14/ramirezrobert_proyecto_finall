@@ -8,8 +8,8 @@ body {
 }
 
 .prototipo11 {
-    width: 800px;
-    height: 480px;
+    width: 900px;
+    height: 500px;
     box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
     display: flex;
     padding: 45px;
@@ -57,14 +57,12 @@ body {
 }
 
 .imagen1 {
-    position: absolute;
-    right: 130px;
+    right: 200px;
+    margin-bottom: 80px;
 }
 
 .imagen2 {
-    position: absolute;
-    left: -210px;
-    bottom: -20px;
+    left: 42px;
 }
 
 .rectangulo {
@@ -73,7 +71,7 @@ body {
     color: #FFFFFFCC;
     border-radius: 25px;
     padding-top: 35px;
-    margin-top: 50px;
+    margin-top: 30px;
     display: flex;
     justify-content: space-between;
 }
