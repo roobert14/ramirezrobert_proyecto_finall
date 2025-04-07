@@ -59,10 +59,11 @@ body {
 .imagen1 {
     right: 200px;
     margin-bottom: 80px;
+
 }
 
 .imagen2 {
-    left: 42px;
+    margin-left: -50px;
 }
 
 .rectangulo {
