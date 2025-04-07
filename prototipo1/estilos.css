@@ -4,6 +4,8 @@ body {
     flex-direction: column;
     box-sizing: border-box;
     font-family: sans-serif;
+    justify-content: center;
+    height: 100vh;
 }
 
 .carta1 {
@@ -12,13 +14,13 @@ body {
     align-items: center;
     text-align: center;
     margin-top: 50px;
-    max-width: 1000px;
-    height: 850px;
+    width: 1440px;
+    height: 1110px;
     box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
 }
 
 .titulo {
-    width: 65%;
+    width: 50%;
     line-height: 60px;
     font-size: 64px;
     margin-bottom: 5px;
@@ -26,21 +28,23 @@ body {
 }
 
 .parrafo {
-    width: 47%;
+    width: 41%;
     color:#252525CC;
-    line-height: 30px;
+    line-height: 40px;
     margin-top: 0px;
-    font-size: 20px;
+    font-size: 26px;
     margin-top: 15px;
 }
 
 .boton {
-    padding: 14px 40px;
+    padding: 20px 60px;
     border: none;
     background-color: #252525;
-    border-radius: 15px;
+    border-radius: 20px;
     color: white;
     cursor: pointer;
+    margin-bottom: 50px;
+    font-size: 20px;
 }
 
 .galeria {
@@ -48,10 +52,16 @@ body {
     justify-content: center;
     gap: 10px;
     flex-wrap: wrap;
-    margin-top: 45px;
+}
+.galeria2 {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 15px;
 }
 
 .carta1 img {
-    width: 220px;
+    width: 320px;
     border-radius: 10px;
 }
