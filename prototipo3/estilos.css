@@ -13,27 +13,27 @@ body {
     height: 1110px;
     box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
     padding: 30px;
-    padding-top: 45px;
-    margin-top: 70px;
 }
 
 .texto {
     gap: 75px;
     display: flex;
-    margin-bottom: 50px;
 }
 
 .subtitulo {
     font-size: 88px;
-    margin-top: 5px;
+    margin-top: 80px;
     color: #252525 80%;
+    margin-right: 50px;
+    margin-left: 40px;
 }
 
 .parrafo {
-    width: 40%;
+    width: 35%;
     font-size: 26px;
     color: rgb(85, 84, 84);
-    line-height: 80px;
+    line-height: 40px;
+    margin-top: 80px;
 }
 
 
@@ -41,11 +41,12 @@ body {
     border: none;
     background-color: #252525;
     color: white;
-    padding: 10px 20px;
-    border-radius: 10px;
+    padding: 16px 32px 16px 32px;
+    border-radius: 16px;
     cursor: pointer;
 }
 
 .imagen {
     width: 100%;
+    margin-top: 70px;
 }
