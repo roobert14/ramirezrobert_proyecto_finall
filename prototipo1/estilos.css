@@ -3,7 +3,7 @@ body {
     align-items: center;
     flex-direction: column;
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: 'Avenir', sans-serif;
     justify-content: center;
     height: 100vh;
 }
@@ -15,48 +15,48 @@ body {
     text-align: center;
     margin-top: 50px;
     width: 1440px;
-    height: 1110px;
+    height: 1139px;
     box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
 }
 
 .titulo {
     width: 50%;
-    line-height: 60px;
+    line-height: 80px;
     font-size: 64px;
     margin-bottom: 5px;
     color: #252525;
 }
 
 .parrafo {
-    width: 41%;
+    width: 43%;
     color:#252525CC;
-    line-height: 40px;
+    line-height: 35px;
     margin-top: 0px;
     font-size: 26px;
-    margin-top: 15px;
+   
 }
 
 .boton {
-    padding: 20px 60px;
+    padding: 18px 48px 18px 48px;
     border: none;
     background-color: #252525;
     border-radius: 20px;
-    color: white;
+    color: #ffff;
     cursor: pointer;
-    margin-bottom: 50px;
+    margin-bottom: 70px;
     font-size: 20px;
 }
 
 .galeria {
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 12px;
     flex-wrap: wrap;
 }
 .galeria2 {
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 12px;
     flex-wrap: wrap;
     margin-top: 15px;
 }
