@@ -61,11 +61,12 @@ body {
 
 .galeria {
     margin-left: 200px;
+    gap: 5px;
+    display: flex;
 }
 img {
     width: 200px;
     height: 210px;
     border-radius: 20px;
     padding-right: 5px;
-    gap: 8px;
 }
