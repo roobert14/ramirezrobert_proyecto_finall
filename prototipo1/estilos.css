@@ -1,7 +1,6 @@
 body {
     display: flex;
     align-items: center;
-    flex-direction: column;
     box-sizing: border-box;
     font-family: 'Avenir', sans-serif;
     justify-content: center;
@@ -37,7 +36,7 @@ body {
 }
 
 .boton {
-    padding: 18px 48px 18px 48px;
+    padding: 18px 48px;
     border: none;
     background-color: #252525;
     border-radius: 20px;
@@ -50,14 +49,12 @@ body {
 .galeria {
     display: flex;
     justify-content: center;
-    gap: 12px;
-    flex-wrap: wrap;
+    gap: 12px; 
 }
 .galeria2 {
     display: flex;
     justify-content: center;
     gap: 12px;
-    flex-wrap: wrap;
     margin-top: 15px;
 }
 

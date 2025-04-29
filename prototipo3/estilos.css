@@ -16,7 +16,6 @@ body {
 }
 
 .texto {
-    gap: 75px;
     display: flex;
 }
 
@@ -31,9 +30,10 @@ body {
 .parrafo {
     width: 35%;
     font-size: 26px;
-    color: rgb(85, 84, 84);
+    color: #252525CC;
     line-height: 35px;
     margin-top: 80px;
+    margin-left: 100px;
 }
 
 
@@ -41,7 +41,7 @@ body {
     border: none;
     background-color: #252525;
     color: white;
-    padding: 20px 52px 20px 52px;
+    padding: 20px 52px;
     border-radius: 16px;
     cursor: pointer;
     margin-bottom: 120px;
@@ -50,6 +50,6 @@ body {
 
 
 .imagen {
-width: 1390px;
-margin-left: 25px;
+    width: 1390px;
+    margin-left: 25px;
 }
