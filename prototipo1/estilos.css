@@ -19,23 +19,24 @@ body {
 }
 
 .titulo {
+    font-size: 64px;
     width: 50%;
     line-height: 80px;
-    font-size: 64px;
     margin-bottom: 5px;
     color: #252525;
 }
 
 .parrafo {
+    font-size: 26px;
     width: 43%;
     color:#252525CC;
     line-height: 35px;
     margin-top: 0px;
-    font-size: 26px;
    
 }
 
 .boton {
+    font-size: 20px;
     padding: 18px 48px;
     border: none;
     background-color: #252525;
@@ -43,7 +44,6 @@ body {
     color: #ffff;
     cursor: pointer;
     margin-bottom: 70px;
-    font-size: 20px;
 }
 
 .galeria {

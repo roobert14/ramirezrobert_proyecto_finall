@@ -7,7 +7,7 @@ body {
     font-family: 'Poppins';
 }
 
-.carta-10 {
+.prototipo10 {
     width: 1440px;
     height: 926px;
     box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
@@ -29,6 +29,7 @@ body {
     font-size: 72px;
     font-weight: 700;
     line-height: 100px;
+    margin: 10px;
 }
 
 .rosa{
@@ -51,9 +52,9 @@ body {
 
 .boton {
     background-color: #ffff;
-    color: #333;
+    color: #232323;
     padding: 24px 48px;
-    border-radius: 40px;
+    border-radius: 36px;
     font-size: 24px;
     cursor: pointer;
 }
