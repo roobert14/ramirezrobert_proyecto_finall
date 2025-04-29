@@ -61,8 +61,8 @@ body {
 
 .galeria {
     margin-left: 200px;
-    gap: 5px;
     display: flex;
+    gap: 10px;
 }
 img {
     width: 200px;
