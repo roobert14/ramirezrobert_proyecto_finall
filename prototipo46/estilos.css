@@ -6,3 +6,41 @@ body{
     justify-content: center;
     font-family: 'Lato';
 }
+
+.prototipo46 {
+    width: 1440px;
+    height: 1030px;
+    box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
+    display: flex;
+    background-image: url(imagenes/fondoo.png);
+    background-size: auto;
+}
+
+.titulo{
+    font-size: 80px;
+    text-align: center;
+    width: 676px;
+    height: 200px;
+    display: flex;
+    margin-left: 400px;
+    margin-top: 300px;
+}
+
+.parrafo{
+    font-size: 24px;
+    width: 620px;
+    margin-left: 420px;
+    text-align: center;
+    margin-top: -30px;
+}
+
+.boton{
+    font-size: 22px;
+    padding: 24px 56px;
+    border-radius: 40px;
+    align-items: center;
+    margin-left: 600px;
+    margin-top: 20px;
+    color: white;
+    background-color: #06040A;
+}
