@@ -10,7 +10,7 @@ body{
 .prototipo46 {
     width: 1440px;
     height: 1030px;
-    box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
+    border: solid black;
     display: flex;
     background-image: url(imagenes/fondoo.png);
     background-size: auto;

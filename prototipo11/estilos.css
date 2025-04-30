@@ -2,7 +2,6 @@ body {
     display: flex;
     align-items: center;
     font-family: sans-serif;
-    box-sizing: border-box;
     flex-direction: column;
     padding: 20px;
     justify-content: center;
@@ -12,7 +11,7 @@ body {
 .prototipo11 {
     width: 800px;
     height: 500px;
-    box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
+    border: solid black;
     display: flex;
     padding: 45px;
     flex-direction: column;
@@ -29,18 +28,18 @@ body {
     width: 330px;
 }
 
-.parrafo h2 {
+.titulo {
     font-size: 40px;
     margin-bottom: 25px;
 }
 
-.parrafo p {
+.info {
     color: #252525CC;
     font-size: 14px;
     line-height: 20px;
 }
 
-.parrafo button {
+.boton {
     border: none;
     color: white;
     background-color: #252525;

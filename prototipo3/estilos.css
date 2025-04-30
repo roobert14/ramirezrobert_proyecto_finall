@@ -1,8 +1,6 @@
 body {
     display: flex;
     align-items: center;
-    box-sizing: border-box;
-    flex-direction: column;
     font-family: 'Avenir', sans-serif;
     justify-content: center;
     height: 100vh;
@@ -11,7 +9,7 @@ body {
 .prototipo3 {
     width: 1440px;
     height: 1212px;
-    box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
+    border: solid black;
     padding: 30px;
 }
 
@@ -28,8 +26,8 @@ body {
 }
 
 .parrafo {
-    width: 35%;
     font-size: 26px;
+    width: 35%;
     color: #252525CC;
     line-height: 35px;
     margin-top: 80px;
@@ -38,14 +36,13 @@ body {
 
 
 .boton {
-    border: none;
+    font-size: 18px;
     background-color: #252525;
     color: white;
     padding: 20px 52px;
     border-radius: 16px;
     cursor: pointer;
     margin-bottom: 120px;
-    font-size: 18px;
 }
 
 

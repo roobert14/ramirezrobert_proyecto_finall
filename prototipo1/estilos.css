@@ -1,7 +1,6 @@
 body {
     display: flex;
     align-items: center;
-    box-sizing: border-box;
     font-family: 'Avenir', sans-serif;
     justify-content: center;
     height: 100vh;
@@ -12,10 +11,10 @@ body {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 45px;
     width: 1440px;
     height: 1139px;
-    box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);
+    border: solid black;
 }
 
 .titulo {
@@ -49,16 +48,16 @@ body {
 .galeria {
     display: flex;
     justify-content: center;
-    gap: 12px; 
+    gap: 17px; 
 }
 .galeria2 {
     display: flex;
     justify-content: center;
-    gap: 12px;
+    gap: 17px;
     margin-top: 15px;
 }
 
 .carta1 img {
     width: 320px;
-    border-radius: 10px;
+    border-radius: 20px;
 }

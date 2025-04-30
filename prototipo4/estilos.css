@@ -11,7 +11,7 @@ body {
     margin-top: 80px;
     display: flex;
     gap: 80px;
-    box-shadow: 5px 10px 150px -20px rgba(49, 49, 49, 0.75);    
+    border: solid black;   
     padding-top: 50px;
     width: 1440px;
     height: 999px;
