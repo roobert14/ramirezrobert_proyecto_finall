@@ -6,7 +6,7 @@ body {
     height: 100vh;
 }
 
-.carta1 {
+.prototipo1 {
     display: flex;
     flex-direction: column;
     align-items: center;
