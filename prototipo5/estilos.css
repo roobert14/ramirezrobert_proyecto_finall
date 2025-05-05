@@ -27,22 +27,34 @@ body {
 .galeria {
     display: flex;
     justify-content: space-between;
-    gap: 180px;
+    gap: 15px;
+}
+
+.primero{
+    margin-left: 40px;
+}
+
+.tercero{
+    margin-right: 40px;
 }
 
 .numeros {
-    font-size: 20px;
+    font-size: 32px;
     color: gray;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
+    text-align: left;
+    margin-left: 25px;
 }
   
 .parrafo {
-    font-size: 16px;
+    font-size: 24px;
     line-height: 1.5;
     margin-bottom: 20px;
+    width: 90%;
+    text-align:left ;
+    margin-left: 25px;
 }
   
 .imagenes {
-   width: 435px;
-   height: 345px;
+   width: 400px;
 }
