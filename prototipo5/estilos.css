@@ -1,9 +1,9 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 40px;
-    background-color: #fff;
-    color: #333;
+    display: flex;
+    align-items: center;
+    font-family: 'Avenir', sans-serif;
+    justify-content: center;
+    height: 100vh;
   }
 
 .prototipo5{
@@ -21,32 +21,28 @@ body {
     font-size: 88px;
     text-align: left;
     width: 50%;
+    margin-left: -600px;
   }
   
 .galeria {
     display: flex;
     justify-content: space-between;
-    gap: 30px;
-  }
-  
-.primero,.segundo,.tercero {
-    max-width: 300px;
-  }
-  
+    gap: 180px;
+}
+
 .numeros {
     font-size: 20px;
     color: gray;
     margin-bottom: 10px;
-  }
+}
   
 .parrafo {
     font-size: 16px;
     line-height: 1.5;
     margin-bottom: 20px;
-  }
+}
   
 .imagenes {
-    width: 100%;
-    height: auto;
-    border-radius: 4px;
-  }
+   width: 435px;
+   height: 345px;
+}
