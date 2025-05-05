@@ -26,7 +26,6 @@ body {
   
 .galeria {
     display: flex;
-    justify-content: space-between;
     gap: 15px;
 }
 
@@ -41,18 +40,17 @@ body {
 .numeros {
     font-size: 32px;
     color: gray;
-    margin-bottom: 5px;
     text-align: left;
     margin-left: 25px;
+    margin-bottom: 0px;
 }
   
 .parrafo {
     font-size: 24px;
-    line-height: 1.5;
-    margin-bottom: 20px;
     width: 90%;
     text-align:left ;
     margin-left: 25px;
+    color: #252525CC;
 }
   
 .imagenes {
