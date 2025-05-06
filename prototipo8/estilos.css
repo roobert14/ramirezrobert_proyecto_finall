@@ -2,11 +2,35 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;   
+    height: 100vh;  
+    font-family: 'Work Sans'; 
 }
 
 .prototipo8{
     width: 1440px;
     height: 926px;
-    border: solid black;border: solid black;
+    border: solid black;
+    background-color: #9C2004;
 }
+
+.galeria{
+    width: 656px;
+    height: 861px;
+    margin-left: 64px;
+    margin-top: 64px;
+}
+
+.texto{
+    margin-left: 889px;
+    margin-top: -850px;
+}
+
+.titulo{
+    width: 487px;
+    height: 416px;
+    font-size: 88px;
+    color: white;
+    line-height: 104px;
+}
+
+
