@@ -1,7 +1,6 @@
 body {
     display: flex;
     align-items: center;
-    flex-direction: column;
     height: 100vh;
     justify-content: center;
     font-family: 'Poppins';
@@ -13,21 +12,17 @@ body {
     background-color: #2F2F2F;
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: 30px;
-    padding: 25px 0px 25px 40px;
-    padding-right: 20px;
     border: solid black;
 }
 
 .texto{
     width: 270px;
-    margin-left: 55px;
+    padding-left: 130px;
+    margin-right: 250px;
 }
 
 .rosa,.azul,.verde{
     font-size: 72px;
-    font-weight: 700;
     line-height: 100px;
     margin: 10px;
 }
@@ -45,28 +40,43 @@ body {
 }
 .parrafo {
     color: #ffff;
-    line-height: 45px;
+    line-height: 35px;
     font-size: 24px;
     width: 450px;
 }
 
 .boton {
+    font-size: 24px;
     background-color: #ffff;
     color: #232323;
     padding: 24px 48px;
     border-radius: 36px;
-    font-size: 24px;
     cursor: pointer;
 }
 
-.galeria {
-    margin-left: 200px;
-    display: flex;
-    gap: 10px;
-}
 img {
-    width: 200px;
-    height: 210px;
-    border-radius: 20px;
-    padding-right: 5px;
+    width: 172px;
+    height: 192px;
+    border-radius: 40px;
+}
+
+.galeria1{
+    gap: 15px;
+    display: flex;
+    margin-bottom: 8px;
+}
+.galeria2{
+    gap: 15px;
+    display: flex;
+    margin-bottom: 8px;
+}
+.galeria3{
+    gap: 15px;
+    display: flex;
+    margin-bottom: 8px;
+}
+.galeria4{
+    gap: 15px;
+    display: flex;
+    margin-bottom: 8px;
 }
