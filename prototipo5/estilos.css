@@ -14,21 +14,20 @@ body {
     height: 954px;
     border: solid black;
     box-sizing: border-box;
-    padding: 50px;
+    padding: 65px;
 }
   
 .titulo{
     font-size: 88px;
     text-align: left;
-    width: 50%;
+    width: 60%;
     margin: 0px;
     line-height: 104px;
-    margin-top: 25px;
   }
   
 .galeria {
     display: flex;
-    gap: 30px;
+    gap: 50px;
     margin-top: 60px;
 }
 
@@ -36,14 +35,12 @@ body {
     font-size: 32px;
     color: gray;
     text-align: left;
-    margin-bottom: 0px;
     margin: 0px;
 }
   
 .parrafo {
-    margin-top: 0px;
     font-size: 24px;
-    width: 95%;
+    width: 100%;
     text-align:left ;
     color: #252525CC;
     margin: 0px;
@@ -51,6 +48,5 @@ body {
   
 .imagenes {
    max-width: 800px;
-   margin: 0px;
    margin-top: 20px;
 }
