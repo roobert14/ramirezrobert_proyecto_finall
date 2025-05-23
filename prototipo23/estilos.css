@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    align-items: center;
+    font-family: 'Avenir', sans-serif;
+    justify-content: center;
+    height: 100vh;
+  }
+
+.prototipo23{
+    display: flex;
+    flex-direction: column;
+    margin-top: 45px;
+    width: 1440px;
+    height: 1024px;
+    border: solid black;
+    box-sizing: border-box;
+    padding: 65px;
+    background-image: url(imagenes/fondo.jpg);
+}
+  
