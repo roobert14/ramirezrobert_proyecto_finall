@@ -1,21 +1,51 @@
 body {
     display: flex;
     align-items: center;
-    font-family: 'Avenir', sans-serif;
+    font-family: 'Lato', sans-serif;
     justify-content: center;
     height: 100vh;
+    margin: 0;
   }
-
 .prototipo23{
     display: flex;
     flex-direction: column;
-    margin-top: 45px;
     width: 1440px;
     height: 1024px;
     border: solid black;
     box-sizing: border-box;
-    padding: 65px;
-    background-image: url(imagenes/fondo.jpg);
+    padding: 60px;
+    background-image: url(imagenes/fondoooo.png);
     background-size: cover;
+}
+
+.titulo{
+  font-size: 88px;
+  color: white;
+  width: 60%;
+  margin-bottom: 0;
+}
+
+.p{
+  font-size: 24px;
+  color: white;
+  width: 42%;
+  line-height: 32px;
+}
+
+.boton{
+  font-size: 24px;
+  background-color: white;
+  color: #100E19;
+  padding: 20px 40px;
+  border-radius: 16px;
+  cursor: pointer;
+}
+
+.galeria{
+  margin-top: 160px;
+  width: 412px;
+  height: 232px;
+  display: flex;
+  gap: 25px;
 }
   
