@@ -17,8 +17,8 @@ body {
     height: 999px;
 }
 
-.prototipo4 img{
-    width: 1800px;
+.imagen {
+    width: 716px;
 }
 
 .texto_general {
@@ -28,13 +28,13 @@ body {
     gap: 30px;
 } 
 
-.prototipo4 h1 {
+.titulo {
     font-size: 64px;
     margin: 20px 0;
     color: #252525;
 }
 
-.primer_parrafo p {
+.parrafo{
     line-height: 26px;
     color:#252525CC;
     margin-top: 0;
@@ -43,7 +43,7 @@ body {
     font-size: 24px;
 }
 
-.primer_parrafo button {
+.boton {
     color: #fff;
     background-color: #252525;
     border: none;
@@ -75,6 +75,3 @@ body {
     font-size: 24px;
 }
 
-.prototipo4 img{
-    width: 716px;
-}
