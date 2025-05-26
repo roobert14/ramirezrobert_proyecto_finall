@@ -35,20 +35,20 @@ body {
 }
 
 .parrafo{
+    font-size: 24px;
     line-height: 26px;
     color:#252525CC;
     margin-top: 0;
     width: 87%;
     line-height: 35px;
-    font-size: 24px;
 }
 
 .boton {
+     font-size: 18px;
     color: #fff;
     background-color: #252525;
     border: none;
     border-radius: 16px;
-    font-size: 18px;
     padding: 18px 48px;
 }
 
@@ -60,18 +60,18 @@ body {
 }
 
 .segundo_numero {
-    color: #2525258C;
     font-size: 32px;
+    color: #2525258C;
     font-weight: 600;
     margin-top: 40px;
 }
 
 .segundo_parrafo p {
+    font-size: 24px;
     line-height: 26px;
     color:#252525CC;
     margin-top: 0;
     width: 100%;
     line-height: 35px;
-    font-size: 24px;
 }
 
